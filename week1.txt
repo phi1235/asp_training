@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 day la sourch cua lab-2 ma thoi
-=======
-day la branch cua lab-1 ma thoi
->>>>>>> main
+
