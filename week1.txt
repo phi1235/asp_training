@@ -1,2 +1,2 @@
 day la file week1.txt
-thuoc branch lab-4 ma thoi
+thuoc branch lab-4 ma thoii
